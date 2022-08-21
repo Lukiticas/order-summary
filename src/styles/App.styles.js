@@ -6,16 +6,11 @@ export const MainBody = styled.main`
   position: relative;
   display: grid;
   place-items: center;
-`;
-
-export const BgImage = styled.picture`
-  position: absolute;
-  width: 100%;
-  height: 50%;
-  top: 0;
-  z-index: -1;
-
-  img {
-    width: 100%;
+  background-image: url(${(props) => props.bg.primary});
+  @media screen and (max-width: 900px) {
+    background-image: url(${(props) => props.bg.secundary});
   }
+  background-size: contain;
+  background-position: fixed;
+  background-repeat: no-repeat;
 `;

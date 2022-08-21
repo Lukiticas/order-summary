@@ -6,5 +6,6 @@ export default {
     bgTerciary: "#3829e0",
     clrPrimary: "#7280a7",
     clrSecundary: "#1f2f56",
+    clrTerciary: "#766CF1",
   },
 };
