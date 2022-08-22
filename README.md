@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![preview](./design/preview.jpg.jpg)
+![preview](https://github.com/Lukiticas/order-summary/blob/master/design/preview.jpg)
 
 ### Links
 
