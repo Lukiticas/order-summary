@@ -1,5 +1,5 @@
 import {
-  CardOrder,
+  OrderBody,
   OrderIcon,
   OrderPrices,
   ChangeOrder,
@@ -7,7 +7,7 @@ import {
 
 export default function OrderDetails() {
   return (
-    <CardOrder>
+    <OrderBody>
       <OrderIcon src="./images/icon-music.svg" />
       <OrderPrices>
         <h3>Annual Plan</h3>
@@ -16,6 +16,6 @@ export default function OrderDetails() {
         </p>
       </OrderPrices>
       <ChangeOrder>Change</ChangeOrder>
-    </CardOrder>
+    </OrderBody>
   );
 }

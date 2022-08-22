@@ -1,3 +1,4 @@
+import OrderDetails from "../OrderDetail";
 import {
   CardBody,
   HeroImg,
@@ -6,12 +7,15 @@ import {
   CardDescription,
   CardButton,
 } from "./Card.styles";
-import OrderDetails from "../OrderDetail";
 
-export default function Card() {
+export default function Card({ setTheme }) {
   return (
     <CardBody>
-      <HeroImg src="./images/illustration-hero.svg" />
+      <HeroImg
+        alt="click here to change themes!"
+        src="./images/illustration-hero.svg"
+        onClick={setTheme}
+      />
       <CardDetails>
         <CardTitle>Order Summary</CardTitle>
         <CardDescription>
