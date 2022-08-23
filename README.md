@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![preview](./design/preview.jpg.jpg)
+![preview](https://github.com/Lukiticas/order-summary/blob/master/design/preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentors.io](https://www.frontendmentor.io/solutions/card-with-themes-u95hDPZekC)
+- Live Site URL: [preview](https://order-summary-lucas.netlify.app/)
 
 ### Built with
 
