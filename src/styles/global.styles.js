@@ -16,7 +16,7 @@ const GlobalStyles = createGlobalStyle`
     }
 
     body {
-        background-color: ${(props) => props.theme.colors.bgPrimary};
+        background-color: ${(props) => props.theme.colors.bgSecundary};
         font-family: 'Red Hat Display', sans-serif;
 
     }
