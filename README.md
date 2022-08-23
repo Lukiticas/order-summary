@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentors.io](https://www.frontendmentor.io/solutions/card-with-themes-u95hDPZekC
+- Solution URL: [frontendmentors.io](https://www.frontendmentor.io/solutions/card-with-themes-u95hDPZekC)
 - Live Site URL: [preview](https://order-summary-lucas.netlify.app/)
 
 ### Built with
